@@ -1,0 +1,121 @@
+Added Component: Designator=J1(RHDR14W70P0X254_1X14_3596X250X865P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M20-782.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M20-7821446"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-M20-7821446"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/M20-7821446?qs=Jph8NoUxIfX%2FjYzLF0Toqw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=MD1(E28-2G4M27S)
+Added Component: Designator=MD2(E28-2G4M27S)
+Added Component: Designator=U1(NEW_NUCLEO)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NUCLEOH723ZG/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NUCLEOH723ZG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/NUCLEOH723ZG/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NUCLEOH723ZG/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=3V3 Pin=J1-8
+Added Pin To Net: NetName=3V3 Pin=MD1-1
+Added Pin To Net: NetName=3V3 Pin=MD2-1
+Added Pin To Net: NetName=3V3 Pin=U1-CN11_16
+Added Net: Name=3V3
+Added Pin To Net: NetName=BUSY_RADIO_0 Pin=MD1-12
+Added Pin To Net: NetName=BUSY_RADIO_0 Pin=U1-CN11_4
+Added Net: Name=BUSY_RADIO_0
+Added Pin To Net: NetName=BUSY_RADIO_1 Pin=MD2-12
+Added Pin To Net: NetName=BUSY_RADIO_1 Pin=U1-CN12_27
+Added Net: Name=BUSY_RADIO_1
+Added Pin To Net: NetName=CS_TFT Pin=J1-3
+Added Pin To Net: NetName=CS_TFT Pin=U1-CN12_38
+Added Net: Name=CS_TFT
+Added Pin To Net: NetName=DC_TFT Pin=J1-5
+Added Pin To Net: NetName=DC_TFT Pin=U1-CN11_9
+Added Net: Name=DC_TFT
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=MD1-2
+Added Pin To Net: NetName=GND Pin=MD1-7
+Added Pin To Net: NetName=GND Pin=MD1-10
+Added Pin To Net: NetName=GND Pin=MD1-16
+Added Pin To Net: NetName=GND Pin=MD2-2
+Added Pin To Net: NetName=GND Pin=MD2-7
+Added Pin To Net: NetName=GND Pin=MD2-10
+Added Pin To Net: NetName=GND Pin=MD2-16
+Added Pin To Net: NetName=GND Pin=U1-CN11_8
+Added Pin To Net: NetName=GND Pin=U1-CN11_19
+Added Pin To Net: NetName=GND Pin=U1-CN11_20
+Added Pin To Net: NetName=GND Pin=U1-CN11_22
+Added Pin To Net: NetName=GND Pin=U1-CN11_49
+Added Pin To Net: NetName=GND Pin=U1-CN11_60
+Added Pin To Net: NetName=GND Pin=U1-CN12_9
+Added Pin To Net: NetName=GND Pin=U1-CN12_20
+Added Pin To Net: NetName=GND Pin=U1-CN12_32
+Added Pin To Net: NetName=GND Pin=U1-CN12_39
+Added Pin To Net: NetName=GND Pin=U1-CN12_54
+Added Pin To Net: NetName=GND Pin=U1-CN12_63
+Added Net: Name=GND
+Added Pin To Net: NetName=INT_RADIO_0 Pin=MD1-13
+Added Pin To Net: NetName=INT_RADIO_0 Pin=U1-CN12_59
+Added Net: Name=INT_RADIO_0
+Added Pin To Net: NetName=INT_RADIO_1 Pin=MD2-13
+Added Pin To Net: NetName=INT_RADIO_1 Pin=U1-CN12_24
+Added Net: Name=INT_RADIO_1
+Added Pin To Net: NetName=MISO_RADIO_0 Pin=MD1-3
+Added Pin To Net: NetName=MISO_RADIO_0 Pin=U1-CN11_35
+Added Net: Name=MISO_RADIO_0
+Added Pin To Net: NetName=MISO_RADIO_1 Pin=MD2-3
+Added Pin To Net: NetName=MISO_RADIO_1 Pin=U1-CN11_63
+Added Net: Name=MISO_RADIO_1
+Added Pin To Net: NetName=MISO_TFT Pin=J1-9
+Added Pin To Net: NetName=MISO_TFT Pin=U1-CN11_50
+Added Net: Name=MISO_TFT
+Added Pin To Net: NetName=MOSI_RADIO_0 Pin=MD1-4
+Added Pin To Net: NetName=MOSI_RADIO_0 Pin=U1-CN11_36
+Added Net: Name=MOSI_RADIO_0
+Added Pin To Net: NetName=MOSI_RADIO_1 Pin=MD2-4
+Added Pin To Net: NetName=MOSI_RADIO_1 Pin=U1-CN12_29
+Added Net: Name=MOSI_RADIO_1
+Added Pin To Net: NetName=MOSI_TFT Pin=J1-6
+Added Pin To Net: NetName=MOSI_TFT Pin=U1-CN11_62
+Added Net: Name=MOSI_TFT
+Added Pin To Net: NetName=NetMD2_8 Pin=MD2-8
+Added Net: Name=NetMD2_8
+Added Pin To Net: NetName=NetMD2_9 Pin=MD2-9
+Added Net: Name=NetMD2_9
+Added Pin To Net: NetName=NSS_RADIO_0 Pin=MD1-6
+Added Pin To Net: NetName=NSS_RADIO_0 Pin=U1-CN12_16
+Added Net: Name=NSS_RADIO_0
+Added Pin To Net: NetName=NSS_RADIO_1 Pin=MD2-6
+Added Pin To Net: NetName=NSS_RADIO_1 Pin=U1-CN11_32
+Added Net: Name=NSS_RADIO_1
+Added Pin To Net: NetName=RST_RADIO_0 Pin=MD1-11
+Added Pin To Net: NetName=RST_RADIO_0 Pin=U1-CN11_17
+Added Net: Name=RST_RADIO_0
+Added Pin To Net: NetName=RST_RADIO_1 Pin=MD2-11
+Added Pin To Net: NetName=RST_RADIO_1 Pin=U1-CN12_22
+Added Net: Name=RST_RADIO_1
+Added Pin To Net: NetName=RST_TFT Pin=J1-4
+Added Net: Name=RST_TFT
+Added Pin To Net: NetName=RX_EN_RADIO_0 Pin=MD1-8
+Added Pin To Net: NetName=RX_EN_RADIO_0 Pin=U1-CN12_69
+Added Net: Name=RX_EN_RADIO_0
+Added Pin To Net: NetName=SCK_RADIO_0 Pin=MD1-5
+Added Pin To Net: NetName=SCK_RADIO_0 Pin=U1-CN11_40
+Added Net: Name=SCK_RADIO_0
+Added Pin To Net: NetName=SCK_RADIO_1 Pin=MD2-5
+Added Pin To Net: NetName=SCK_RADIO_1 Pin=U1-CN12_11
+Added Net: Name=SCK_RADIO_1
+Added Pin To Net: NetName=SCK_TFT Pin=J1-7
+Added Pin To Net: NetName=SCK_TFT Pin=U1-CN12_49
+Added Net: Name=SCK_TFT
+Added Pin To Net: NetName=TX_EN_RADIO_0 Pin=MD1-9
+Added Pin To Net: NetName=TX_EN_RADIO_0 Pin=U1-CN12_68
+Added Net: Name=TX_EN_RADIO_0
+Added Class: Name=main
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
